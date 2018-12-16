@@ -13,4 +13,4 @@ clean:
 		rm -f *.o core
 
 mrproper: clean
-		rm -f test1
+		rm -f test
